@@ -1,0 +1,23 @@
+
+
+.recipe-list {
+
+ display: flex;
+ justify-content: space-evenly;
+ flex-wrap:wrap;
+ 
+
+}
+
+.show-image{
+
+ margin-top: 50px;
+
+
+}
+
+.info-image{
+
+    margin-top: 50px;
+}
+
